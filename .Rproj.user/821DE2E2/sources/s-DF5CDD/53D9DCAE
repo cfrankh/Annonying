@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601888850569.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1564736667",
+    "id" : "53D9DCAE",
+    "lastKnownWriteTime" : 1601888879,
+    "last_content_update" : 1601888879191,
+    "path" : "~/Coursera2/Data_Science_Specialization/1_The_Data_Scientists_Toolbox/Annonying/first_file.R",
+    "project_path" : "first_file.R",
+    "properties" : {
+        "cursorPosition" : "2,12",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
