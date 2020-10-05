@@ -1,3 +1,4 @@
 a <- 5
 b <- 1
-print(a + b)
+c <- 99
+print(a + b + c)
